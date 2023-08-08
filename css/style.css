@@ -335,10 +335,10 @@ h6 {
     font-size: 35px;
     line-height: 36px;
   }
-  #hero{
-    /* background-image: center; */
+  /*#hero{
+    /* background-image: center; 
     background: url("../img/Me3.jpeg") no-repeat center;
-  }
+  } */
 
   #hero .hero-container{
     position: relative;
