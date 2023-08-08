@@ -324,6 +324,12 @@ h6 {
     left: 30px;
   }
 }
+@media (max-width: 1000px) {
+  #hero{
+    background: url("../img/Me_3.jpeg") no-repeat center ;
+    /* top:30px; */
+  }
+}
 @media (max-width: 768px) {
   #hero h1 {
     font-size: 35px;
@@ -331,7 +337,7 @@ h6 {
   }
   #hero{
     /* background-image: center; */
-    background: url("../img/Me2.jpeg") no-repeat center;
+    background: url("../img/Me3.jpeg") no-repeat center;
   }
 
   #hero .hero-container{
